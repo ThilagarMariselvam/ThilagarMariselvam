@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThilagarMariselvam
+- 👀 I’m interested in Web Designing
+- 🌱 I’m currently learning Front End
+- 💞️ I’m looking to collaborate on ML Projects
+- 📫 Reach me: thilagarmarisubbu@gmail.com
