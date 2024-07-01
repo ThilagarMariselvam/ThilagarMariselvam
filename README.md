@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThilagarMariselvam
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Cloud tech
 - 🌱 I’m currently learning Machine learning
 - 💻 I'm Freelancing Front-End projects 
 - 💞️ I’m looking to collaborate on ML Projects
